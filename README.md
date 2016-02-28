@@ -15,3 +15,23 @@ Most system work best if they are kept simple rather than made complex.
 -   [KISS原则](http://wiki.mbalib.com/wiki/KISS%E5%8E%9F%E5%88%99)
 -   [KISS principle](http://en.wikipedia.org/wiki/KISS_principle)
 -   [Keep it simple stupid](http://principles-wiki.net/principles:keep_it_simple_stupid)
+
+## YAGNI
+
+YAGNI stands for "you aren't gonna need it": don't implement something until it is necessary.
+
+**Why?**
+
+-   Any work that's only used for a feature that's needed tomorrow, means losing effort from features that need to be done for the current iteration.
+-   It leads to code bloat; the software becomes larger and more complicated.
+
+**How?**
+
+-   Always implement things when you **actually** need them, never when you just **foresee** that you need them.
+
+**Resources**
+
+-   http://www.infoq.com/cn/news/2015/06/yagni
+-   http://c2.com/xp/YouArentGonnaNeedIt.html
+-   https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+-   http://www.xprogramming.com/Practices/PracNotNeed.html
